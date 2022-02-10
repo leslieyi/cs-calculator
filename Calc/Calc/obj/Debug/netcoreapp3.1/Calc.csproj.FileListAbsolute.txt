@@ -1,0 +1,13 @@
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.AssemblyInfo.cs
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/Calc/Calc/bin/Debug/netcoreapp3.1/Calc.deps.json
+/Users/leslie.yi/Projects/Calc/Calc/bin/Debug/netcoreapp3.1/Calc.runtimeconfig.json
+/Users/leslie.yi/Projects/Calc/Calc/bin/Debug/netcoreapp3.1/Calc.runtimeconfig.dev.json
+/Users/leslie.yi/Projects/Calc/Calc/bin/Debug/netcoreapp3.1/Calc.dll
+/Users/leslie.yi/Projects/Calc/Calc/bin/Debug/netcoreapp3.1/Calc.pdb
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.dll
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.pdb
+/Users/leslie.yi/Projects/Calc/Calc/obj/Debug/netcoreapp3.1/Calc.genruntimeconfig.cache

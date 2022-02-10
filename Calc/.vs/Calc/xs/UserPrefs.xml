@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2EC34E56-9999-44C8-AB13-91DAAA13E46B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calc/Program.cs">
+    <Files>
+      <File FileName="Calc/Program.cs" Line="21" Column="1" />
+      <File FileName="Calc/Calculator/MyCalc.cs" Line="3" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calc" expanded="True">
+            <Node name="Calc" expanded="True">
+              <Node name="Calculator" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Calc" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
